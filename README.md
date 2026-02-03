@@ -36,4 +36,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
