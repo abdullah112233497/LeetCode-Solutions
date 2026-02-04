@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
@@ -18,6 +19,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
