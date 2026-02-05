@@ -19,7 +19,7 @@
 
 <pre>
 <strong>Input:</strong> height = [1,1]
-<strong>Output:</strong> 1
+<strong>Output:</strong>1
 </pre>
 
 <p>&nbsp;</p>
