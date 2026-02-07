@@ -11,6 +11,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -29,6 +30,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -42,4 +44,5 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/abdullah112233497/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
