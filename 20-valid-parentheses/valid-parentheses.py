@@ -12,6 +12,7 @@ class Solution:
             else:
                 if not box:
                     return False
-                if sample[i]!=box.pop():
+                t=box.pop()
+                if sample[i]!=t:
                     return False
         return len(box)==0
