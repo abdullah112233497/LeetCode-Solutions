@@ -1,18 +1,17 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        bag=[]
-        ids = {
-    '}': '{',
-    ']': '[',
-    ')': '('
-}
+        box=[]
+        sample={
+           '}' :'{',
+           ']':'[',
+           ')':'('
+        }
         for i in s:
             if i in '{[(':
-                bag.append(i)
+                box.append(i)
             else:
-                if not bag:
+                if not box:
                     return False
-                sem=bag.pop()
-                if ids[i]!=sem:
+                if sample[i]!=box.pop():
                     return False
-        return len(bag)==0
+        return len(box)==0
